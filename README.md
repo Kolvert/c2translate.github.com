@@ -1,1 +1,0 @@
-# c2translate.github.com
